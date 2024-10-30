@@ -1802,7 +1802,8 @@ export const getTextToLocalMapping = label => {
         "Application Status",
         "WS_COMMON_TABLE_COL_APPLICATION_STATUS"
       )
-    // case "Connection Type":
+    
+    //// case "Connection Type":
     //   return getLocaleLabels(
     //     "Connection Type",
     //     "Connection Type"
